@@ -1,0 +1,20 @@
+{
+  "name": "modularkit-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "local": "cross-env NODE_ENV=localhost node app.js",
+    "dev": "cross-env NODE_ENV=development node app.js",
+    "pre": "cross-env NODE_ENV=production node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.14.2",
+    "wbrick": "^0.0.12"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

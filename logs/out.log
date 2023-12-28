@@ -1,0 +1,90 @@
+2023-12-25 17:52:42: [17:52:42.175] INFO (1664498): db.typed
+2023-12-25 17:52:42: [17:52:42.177] INFO (1664498): Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA
+2023-12-25 17:52:43: Server running on http://localhost:3000
+2023-12-25 17:52:44: [17:52:43.297] INFO (1664498): Dependencies installed for pluginA
+2023-12-25 17:52:44: [17:52:43.297] INFO (1664498): Loading plugin pluginA ...
+2023-12-25 17:52:44: [17:52:43.309] INFO (1664498): Loading plugin pluginA completed 
+2023-12-25 17:53:05: Server running on http://localhost:3000
+2023-12-25 17:53:05: Server running on http://localhost:3000
+2023-12-25 17:53:06: Server running on http://localhost:3000
+2023-12-25 17:53:06: Server running on http://localhost:3000
+2023-12-25 17:53:06: Server running on http://localhost:3000
+2023-12-25 17:53:06: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:53:11: Server running on http://localhost:3000
+2023-12-25 17:57:09: {"level":30,"time":1703498229218,"pid":1676616,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229223,"pid":1676616,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229271,"pid":1676624,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229278,"pid":1676624,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229359,"pid":1676633,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229370,"pid":1676633,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229438,"pid":1676640,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229443,"pid":1676640,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229631,"pid":1676666,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229636,"pid":1676666,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229736,"pid":1676677,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229738,"pid":1676677,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229786,"pid":1676690,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229795,"pid":1676690,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229884,"pid":1676654,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:09: {"level":30,"time":1703498229890,"pid":1676654,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230016,"pid":1676720,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230027,"pid":1676720,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230064,"pid":1676707,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230065,"pid":1676781,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230069,"pid":1676781,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230071,"pid":1676707,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230143,"pid":1676756,"hostname":"shitian-Vostro-3881","msg":"db.typed"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230150,"pid":1676756,"hostname":"shitian-Vostro-3881","msg":"Installing NPM dependencies for plugin /mnt/shitian/surface-file/QITA/2023/wbrick-demo/plugins/pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230904,"pid":1676624,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:10: {"level":30,"time":1703498230904,"pid":1676624,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:10: {"level":30,"time":1703498230916,"pid":1676624,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:10: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231046,"pid":1676633,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231046,"pid":1676633,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231060,"pid":1676633,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231091,"pid":1676640,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231092,"pid":1676640,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231104,"pid":1676640,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231252,"pid":1676616,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231252,"pid":1676616,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231264,"pid":1676616,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231310,"pid":1676666,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231310,"pid":1676666,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231321,"pid":1676666,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231370,"pid":1676690,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231370,"pid":1676690,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231381,"pid":1676690,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231452,"pid":1676677,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231452,"pid":1676677,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231463,"pid":1676677,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231487,"pid":1676781,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231500,"pid":1676707,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231487,"pid":1676781,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231499,"pid":1676781,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231501,"pid":1676707,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231511,"pid":1676707,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231568,"pid":1676756,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231586,"pid":1676654,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231568,"pid":1676756,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231586,"pid":1676756,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231586,"pid":1676654,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231602,"pid":1676654,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
+2023-12-25 17:57:11: {"level":30,"time":1703498231652,"pid":1676720,"hostname":"shitian-Vostro-3881","msg":"Dependencies installed for pluginA"}
+2023-12-25 17:57:11: {"level":30,"time":1703498231653,"pid":1676720,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA ..."}
+2023-12-25 17:57:11: {"level":30,"time":1703498231666,"pid":1676720,"hostname":"shitian-Vostro-3881","msg":"Loading plugin pluginA completed "}
+2023-12-25 17:57:11: Server running on http://localhost:3000
