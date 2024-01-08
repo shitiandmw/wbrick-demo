@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.14.2",
-    "wbrick": "^0.0.14"
+    "wbrick": "^0.0.17"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
