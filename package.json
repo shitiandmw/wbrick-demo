@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "koa": "^2.14.2",
-    "wbrick": "^0.0.17"
+    "lru-cache": "^10.1.0",
+    "wbrick": "^0.0.18"
   },
   "devDependencies": {
     "cross-env": "^7.0.3"
