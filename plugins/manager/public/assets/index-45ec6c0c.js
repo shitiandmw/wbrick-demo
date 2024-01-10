@@ -1,0 +1,1 @@
+import{_ as a}from"./CommonLayout-9e519476.js";import{o as e,a as t,w as o,L as r}from"./index-335407a5.js";const p={__name:"index",setup(s){return(_,c)=>(e(),t(a,null,{default:o(()=>[r(" dashboard ")]),_:1}))}};export{p as default};

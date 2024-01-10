@@ -19,5 +19,11 @@ const map = [
       },
     ],
   },
+  {
+    path: '/manager/login',
+    name: 'login2',
+    title: '登录',
+    component: () => import('@/views/login/login.vue'),
+  },
 ];
 export default map;

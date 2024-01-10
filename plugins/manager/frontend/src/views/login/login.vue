@@ -13,6 +13,7 @@ import { UserOutlined, LockOutlined } from "@ant-design/icons-vue";
         <div class="text-3xl font-bold flex items-center space-x-2">
           <img src="@/assets/vue.svg" class="w-14" /><span>Vue Antd Admin</span>
         </div>
+
         <div class="text-sm text-gray-500">商城登录</div>
       </div>
       <div class="space-y-6">
