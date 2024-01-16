@@ -3,9 +3,9 @@
     <a-layout-sider
       v-model:collapsed="collapsed"
       :trigger="null"
-      class="group shadow-lg shadow-gray-300 relative"
+      class="group shadow-lg shadow-gray-900"
       collapsible
-      width="300px"
+      width="230px"
       breakpoint="sm"
     >
       <div
@@ -17,18 +17,10 @@
         >
       </div>
       <a-menu v-model:selectedKeys="selectedKeys" theme="dark" mode="inline">
-        <a-sub-menu key="sub1">
-            <template #title>
-              <span>
-                <user-outlined />
-                subnav 1
-              </span>
-            </template>
-            <a-menu-item key="1">option1</a-menu-item>
-            <a-menu-item key="2">option2</a-menu-item>
-            <a-menu-item key="3">option3</a-menu-item>
-            <a-menu-item key="4">option4</a-menu-item>
-          </a-sub-menu>
+        <a-menu-item key="1">
+         <div class="flex items-center"> <user-outlined />
+          <span>nav 1</span></div>
+        </a-menu-item>
         <a-menu-item key="2">
          <div class="flex items-center">  <video-camera-outlined />
           <span>nav 2</span></div>
@@ -41,7 +33,7 @@
     </a-layout-sider>
     <div class="flex flex-1 flex-col">
       <div
-        class="h-18 bg-white w-full px-4 pl-6 flex items-center shadow-lg shadow-gray-200 relative justify-between"
+        class="h-16 bg-white w-full px-4 pl-6 flex items-center shadow-lg shadow-gray-900 justify-between"
       >
         <div class="flex -translate-y-1">
           <menu-unfold-outlined
@@ -70,8 +62,3 @@ import HeadUserCard from '@/components/HeadUserCard.vue'
 const selectedKeys = ref(["1"]);
 const collapsed = ref(false);
 </script>
-<style scoped>
-.ant-menu-item {
-  width: 100% !important; margin: 0 !important; border-radius: 0 !important;
-}
-</style>

@@ -10,9 +10,12 @@
   "license": "ISC",
   "dependencies": {
     "connect-history-api-fallback": "^2.0.0",
+    "koa-body": "^6.0.1",
     "koa-mount": "^4.0.0",
     "koa-router": "^12.0.1",
+    "koa-session": "^6.4.0",
     "koa-static": "^5.0.0",
-    "koa-static-cache": "^5.1.4"
+    "koa-static-cache": "^5.1.4",
+    "lwtool": "^0.0.2"
   }
 }

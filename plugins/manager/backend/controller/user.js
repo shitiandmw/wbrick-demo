@@ -5,7 +5,7 @@ class UserController extends Controller {
         let count = await this.app.model.user.countDocuments();
         // 获得请求参数
         const { name, email } = this.ctx.query;
-        // 现在可以使用 this.ctx 访问上下文
+        // 现在可以使用 this.ctx 访问上下文 
         this.ctx.body = `Response from UserController,Test app.model:${count},name:${name},email:${email}`;
     }
     async testService()

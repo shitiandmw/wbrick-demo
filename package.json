@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "local": "cross-env NODE_ENV=localhost node app.js",
+    "local": "cross-env NODE_ENV=localhost nodemon",
     "dev": "cross-env NODE_ENV=development node app.js",
     "pre": "cross-env NODE_ENV=production node app.js"
   },
@@ -13,9 +13,11 @@
   "dependencies": {
     "koa": "^2.14.2",
     "lru-cache": "^10.1.0",
+    "lwtool": "^0.0.2",
     "wbrick": "^0.0.18"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.2"
   }
 }

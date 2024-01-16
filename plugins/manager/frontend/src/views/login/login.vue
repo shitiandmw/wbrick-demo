@@ -3,6 +3,18 @@ import { ref } from "vue";
 import CommonLayout from "@/layouts/CommonLayout.vue";
 import { UserOutlined, LockOutlined } from "@ant-design/icons-vue";
 
+const uploadImage = (e) => {
+  const file = e.target.files[0];
+  console.log(file)
+  const reader = new FileReader();
+  reader.readAsDataURL(file);
+  reader.onload = function (e) {
+    console.log(e.target.result);
+  };
+};
+
+
+
 </script>
 
 <template>
@@ -12,6 +24,7 @@ import { UserOutlined, LockOutlined } from "@ant-design/icons-vue";
       <div class="space-y-2 flex flex-col items-center">
         <div class="text-3xl font-bold flex items-center space-x-2">
           <img src="@/assets/vue.svg" class="w-14" /><span>Vue Antd Admin</span>
+          <input type="file" accept="image/*" capture="camera" @change="uploadImage">
         </div>
 
         <div class="text-sm text-gray-500">商城登录</div>
